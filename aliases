@@ -1,0 +1,20 @@
+alias cfa='vim ~/.aliases'
+alias cfz='vim ~/.zshrc'
+alias cddev='cd ~/Documents/dev/' 
+alias cfv='vim ~/.vimrc'
+alias cfb='vim ~/.bashrc'
+alias cfi3='vim ~/.config/i3/config'
+
+# alias: copy and symlink
+# ex from within ~/.config:
+# cpln file.sh ../Documents/scripts
+# result: cp file.sh ../Documents/scripts && ln -s /home/matt/Documents/scripts/file.sh /home/matt/.config/file.sh
+
+alias la='ll -a'
+alias cdscripts='cd ~/Documents/scripts'
+alias q='exit'
+alias cfi3status='vim ~/.config/i3status/config'
+alias cdorg='cd ~/org'
+alias et='emacs -nw'
+alias cfterm='vim ~/.config/alacritty/alacritty.yml'
+

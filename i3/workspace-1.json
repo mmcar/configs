@@ -1,0 +1,47 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "pixel",
+    "current_border_width": 6,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 1325,
+       "width": 2490,
+       "x": 0,
+       "y": 0
+    },
+    "name": "House of Paign 20 - CLN | AbsentPage (Fox) vs EMG | Hax$ (Fox) - Losers Semis - YouTube - Mozilla Firefox",
+    "percent": 0.409765625,
+    "swallows": [
+       {
+       // "class": "^Firefox$",
+       // "instance": "^Navigator$",
+       // "title": "^House\\ of\\ Paign\\ 20\\ \\-\\ CLN\\ \\|\\ AbsentPage\\ \\(Fox\\)\\ vs\\ EMG\\ \\|\\ Hax\\$\\ \\(Fox\\)\\ \\-\\ Losers\\ Semis\\ \\-\\ YouTube\\ \\-\\ Mozilla\\ Firefox$",
+       // "window_role": "^browser$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "pixel",
+    "current_border_width": 6,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 1325,
+       "width": 2490,
+       "x": 0,
+       "y": 0
+    },
+    "name": "all subreddits - Mozilla Firefox",
+    "percent": 0.590234375,
+    "swallows": [
+       {
+       // "class": "^Firefox$",
+       // "instance": "^Navigator$",
+       // "title": "^all\\ subreddits\\ \\-\\ Mozilla\\ Firefox$",
+       // "window_role": "^browser$"
+       }
+    ],
+    "type": "con"
+}
+
