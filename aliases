@@ -11,7 +11,7 @@ alias cfi3='vim ~/.config/i3/config'
 # result: cp file.sh ../Documents/scripts && ln -s /home/matt/Documents/scripts/file.sh /home/matt/.config/file.sh
 
 alias la='ll -a'
-alias cdscripts='cd ~/Documents/scripts'
+alias cdconfigs='cd ~/Documents/configs'
 alias q='exit'
 alias cfi3status='vim ~/.config/i3status/config'
 alias cdorg='cd ~/org'
