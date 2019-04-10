@@ -146,8 +146,8 @@ bar {
 		statusline #CCCCCC
 	}
 }
-default_border pixel 6 
-gaps inner 15
-gaps outer 15
+default_border pixel 5 
+gaps inner 10
+gaps outer 5
 exec --no-startup-id ~/bin/syncthing/syncthing -no-browser
-exec --no-startup-id ~/Documents/scripts/i3startup.sh
+exec --no-startup-id ~/Documents/configs/i3startup.sh
